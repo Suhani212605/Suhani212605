@@ -6,6 +6,8 @@ Featured Project
 
 ShareJoy2gether
 
+🌐Live Website : https://sharejoy-together.netlify.app/
+
 ShareJoy2gether is a social-impact platform built to help people in need access daily meals and essential items, while making it easier for people to donate and support others.
 
 The platform connects donors, people in need, and NGOs in one place. Only NGOs verified by the admin through proper documentation can claim donations, helping make the donation process more secure and trustworthy.
@@ -27,9 +29,6 @@ Key Features
 •🛒Use of reward points to purchase essential items from local grocery stores
 •🏅Donor badges to track contribution progress and achievements
 •💬In-app communication for easier coordination
-
-
-🌐Live Website : https://sharejoy-together.netlify.app/
 
 
 Technologies
